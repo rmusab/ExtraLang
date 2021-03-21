@@ -1,0 +1,53 @@
+Money
+17
+
+Где я могу поменять деньги?
+Where may I exchange some money?
+
+Где ближайший пункт обмена валюты?
+Where is the nearest currency exchange office?
+
+Какой сейчас обменный курс доллара?
+What is the dollar exchange rate now?
+
+Сколько вы берете за обмен?
+How much commission do you charge?
+
+Вы принимаете кредитные карточки?
+Do you accept credit cards?
+
+Я хочу поменять дорожные чеки.
+I want to exchange some Traveler's checks.
+
+Я хотел бы открыть счет.
+I'd like to open an account.
+
+Я хотел бы открыть сбрегательный счет.
+I'd like to open a savings account.
+
+Какие проценты вы заплатите?
+How much interest will you pay?
+
+Как я могу получить кредитную карточку?
+How can I get a credit card?
+
+Какой минимальный вклад я должен поддерживать?
+What minimum balance should I maintain?
+
+Я жду денежный перевод из московского банка. Меня зовут Петр Ковалев.
+I am expecting a wire transfer from a Moscow bank. My name is Peter Kovalev.
+
+Где я должен подписать?
+Where should I sign?
+
+Пожалуйста, дайте мне квитанцию.
+Please give me the bill.
+
+Вот мой паспорт.
+Here is my passport.
+
+Вот мои водительские права.
+Here is my driver's license.
+
+Извините, у меня нет мелочи.
+I'm sorry I have no change.

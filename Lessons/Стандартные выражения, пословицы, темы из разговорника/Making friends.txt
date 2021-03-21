@@ -1,0 +1,56 @@
+Making friends
+18
+
+Как вас зовут?
+What is your name?
+
+Меня зовут Мария. А вас?
+My name is Maria. And yours?
+
+Меня зовут Майкл. Вы от куда?
+My name is Michael. Where are you from?
+
+Я из России, из Санкт-Петербурга. А вы?
+I am from Russia, from St. Petersburg. What about you?
+
+Я живу здесь. Где вы остановились в Сан Франциско?
+I live here. Where are you staying in San Francisco?
+
+Я остановилась у своих друзей в Марине.
+I am staying at my friends' house in the Marina.
+
+Это ваш первый визит в США?
+Is it your first trip to the USA?
+
+Да. Мои друзья пригласили меня провести отпуск здесь.
+Yes. My friends invited me to spend my vacation here.
+
+Чем вы занимаетесь?
+What do you do?
+
+Я менеджер фирмы занимающейся програмным обеспечением. А чем занимаетесь вы?
+I am a manager of a software company. And what do you do?
+
+Я адвокат. Вот моя визитная карточка.
+I am a lawyer. Here is my business card.
+
+Спасибо. К сожелению, у меня нет с собой визитной карточки.
+Thank you. I am sorry I haven't any business cards with me.
+
+Хотели бы вы выпить чашку кофе?
+Would you like to have a cup of coffee?
+
+Спасибо большое, но у меня сейчас нет времени.
+Thank you very much, but I don't have time right now.
+
+Не хотите ли присоединиться и погулять со мной в парке "Золотые Ворота" завтра?
+Would you like to join me for a walk in Golden Gate Park tomorrow?
+
+Да, с удовольствием. Позвоните мне завтра утром в десять.
+Yes, I'd love to. Will you call me tomorrow at ten in the morning?
+
+Какой ваш номер телефона?
+What is your telephone number?
+
+Мой номер телефона 826-0567.
+My telephone number is 826-0567.

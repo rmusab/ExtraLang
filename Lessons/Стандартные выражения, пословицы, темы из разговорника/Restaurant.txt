@@ -1,0 +1,44 @@
+Restaurant
+14
+
+Нам нужен столик на двоих.
+We would like a table for two.
+
+Я могу дать вам тот столик у окна.
+I can give you that table by the window.
+
+Хорошее место, спасибо.
+That looks fine, thank you.
+
+Добрый день. Могу я предложить вам что-нибудь выпить до того, как вы закажете?
+Good afternoon. Can I offer you something to drink before you order?
+
+Пока не надо напитков, только меню.
+Nothing to drink yet, just the menu?
+
+Конечно. Вы найдете список деликатесов на сегодня на доске вон там.
+Of course. You will find today's specials on the blackboard over there.
+
+Я вижу. Какой салат вы порекомендуете?
+I see. What salad do you recommend?
+
+Сегодня у нас великолепный салат "Ницца" cо свежим тунцом.
+Today we have an excellent Nocoise salad with fresh tuna.
+
+Замечательно. А есть у вас вино на разлив?
+That sounds very good. And do you have wine by the glass?
+
+Да. К салату я могу предложить "Напа Вэли Шардоне".
+Yes. With the salad I would suggest a Napa Valley Chardonnay.
+
+Мы хотели бы кофе: двойной экспрессо и каппучино.
+We'd like to have some coffee: a double expresso and cappucino.
+
+Не хотите посмотреть меню дессертных блюд?
+Would you like to see the dessert menu?
+
+Нет спасибо. Счет пожалуйста.
+No. thank you. Just the bill.
+
+Вот он. Обслуживание включено. 
+Here you are. Service is included.

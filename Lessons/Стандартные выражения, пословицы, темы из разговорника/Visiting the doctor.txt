@@ -1,0 +1,47 @@
+Visiting the doctor
+15
+
+На что вы жалуетесь?
+What are your complaints?
+
+У меня жар и сильная головная боль.
+I have a fever and a severe headache.
+
+Когда это началось?
+When did it start?
+
+Это началось вчера вечером.
+It started yesterday, in the evening.
+
+Заметили ли вы другие симптомы?
+Have you noticed any other symptoms?
+
+У меня болит горло.
+I have a sore throat.
+
+Откройте рот и позвольте мне посмотреть ваш язык.
+Open your mouth, and let me see your tongue.
+
+Разденьтесь до пояса, пожалуйста. Дышите глубже ... задержите дыхание.
+Strip to the waist, please. Breathe deeply...hold your breath.
+
+Можно мне одеться?
+May I get dressed?
+
+У вас грипп. Я выпишу вам таблетки.
+You have influenza. I'll prescribe some pills for you.
+
+Как мне принимать это лекарство?
+How do I take this medicine?
+
+По одной таблетке три раза в день после еды.
+One pill, three times a day after meals.
+
+Где можно купить это лекарство?
+Where can I buy this medicine?
+
+Вы можете купить его в любой аптеке. Вам следует сохранять постельный режим.
+You can buy it at any drug-store. You should stay in bed.
+
+Спасибо, доктор.
+Thank you, doctor.

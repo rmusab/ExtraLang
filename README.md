@@ -1,5 +1,5 @@
 # ExtraLang
-This program helps a user to learn languages by engaging in simple games. The program makes use of the WordNet database, and was originally developed for Russian-speaking people, but it can be adapted to any languages as long as the appropriate databases are provided.
+This program helps a user to learn languages by engaging in simple games. The program makes use of the WordNet database, and was originally developed for Russian-speaking people, but it can be adapted to any languages as long as the appropriate databases are provided. The program also makes use of the text-to-speech engine to pronounce English words.
 
 ![Screenshot1](Screenshots/screenshot1.png)  
 *Fig. 1: Training mode selection window*
